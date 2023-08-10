@@ -1,0 +1,18 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: navy;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__link{
+    color: azure;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
